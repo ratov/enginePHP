@@ -5,6 +5,7 @@
  * Date: 04.07.2016
  * Time: 19:20
  */
+/*Класс отвечающий за валидатор*/
 class AbstractSelect
 {
     private $db;
