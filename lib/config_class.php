@@ -18,6 +18,7 @@ abstract class Config
     const DB_PASSWORD = "";
     const DB_NAME = "lesson";
     const DB_PREFIX = "xyz_";
+    const DB_SYM_QUERY = "?";
 
     const DIR_IMG = "/images/";
     const DIR_IMG_ARTICLES = "/images/articles/";
